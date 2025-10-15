@@ -29,3 +29,25 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.titulo, .katawan {
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+.titulo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.titulo-ng-katawan {
+    font-family: 'Segoe UI';
+    font-size: 22px;
+}
+
+.katawan-ng-titulo {
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 35px;
+}
